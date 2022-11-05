@@ -1,0 +1,8 @@
+C:\moback\for git\studyType\StudyType\study\NewStudy\NewStudy\bin\Debug\NewStudy.exe.config
+C:\moback\for git\studyType\StudyType\study\NewStudy\NewStudy\bin\Debug\NewStudy.exe
+C:\moback\for git\studyType\StudyType\study\NewStudy\NewStudy\bin\Debug\NewStudy.pdb
+C:\moback\for git\studyType\StudyType\study\NewStudy\NewStudy\obj\Debug\NewStudy.csproj.AssemblyReference.cache
+C:\moback\for git\studyType\StudyType\study\NewStudy\NewStudy\obj\Debug\NewStudy.csproj.SuggestedBindingRedirects.cache
+C:\moback\for git\studyType\StudyType\study\NewStudy\NewStudy\obj\Debug\NewStudy.csproj.CoreCompileInputs.cache
+C:\moback\for git\studyType\StudyType\study\NewStudy\NewStudy\obj\Debug\NewStudy.exe
+C:\moback\for git\studyType\StudyType\study\NewStudy\NewStudy\obj\Debug\NewStudy.pdb
